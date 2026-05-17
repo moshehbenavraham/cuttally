@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /login
+
+# Authenticated app — keep out of search results.
+Disallow: /dashboard
+Disallow: /deals
+Disallow: /reps
+Disallow: /comp-plans
+Disallow: /ai-chat
+
+Sitemap: https://commcalc.io/sitemap.xml

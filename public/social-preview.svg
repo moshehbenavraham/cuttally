@@ -1,0 +1,15 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F6F8FA"/>
+  <rect x="84" y="76" width="1032" height="478" rx="0" fill="#FFFFFF" stroke="#D4DAE0" stroke-width="2"/>
+  <rect x="128" y="122" width="178" height="40" fill="#159A9C"/>
+  <rect x="128" y="188" width="530" height="28" fill="#002333"/>
+  <rect x="128" y="238" width="420" height="22" fill="#5A6A78"/>
+  <rect x="128" y="286" width="214" height="84" fill="#DEEFE7"/>
+  <rect x="374" y="286" width="214" height="84" fill="#F0F4F2"/>
+  <rect x="620" y="286" width="214" height="84" fill="#DEEFE7"/>
+  <path d="M176 436L272 364L384 418L506 334L642 400L808 270L972 350" stroke="#159A9C" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter"/>
+  <circle cx="972" cy="350" r="20" fill="#002333"/>
+  <text x="128" y="153" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">CommCalc</text>
+  <text x="128" y="480" fill="#002333" font-family="Arial, sans-serif" font-size="52" font-weight="700">Commission management workspace</text>
+  <text x="128" y="520" fill="#5A6A78" font-family="Arial, sans-serif" font-size="26">Real-time payouts, quota tracking, and plan modeling.</text>
+</svg>
